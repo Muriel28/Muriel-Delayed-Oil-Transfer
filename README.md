@@ -8,3 +8,7 @@ This project investigates the root causes of delay.
 The analysis covers
 + Current transfer
 + Staffing and equipment
+
+**Methodology**
++ **Data collection** collecting logs
++ **Analysis** identify
