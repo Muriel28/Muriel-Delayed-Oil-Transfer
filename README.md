@@ -12,3 +12,10 @@ The analysis covers
 **Methodology**
 + **Data collection** collecting logs
 + **Analysis** identify
+
+---
+**Data Source**
+Data set provided by the client
+
+---
+**Tools**
