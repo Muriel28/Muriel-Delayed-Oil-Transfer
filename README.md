@@ -19,3 +19,9 @@ Data set provided by the client
 
 ---
 **Tools**
+
+**Key Questions**
+1. Total number
+    + Determine the number
+2. Number of efficient trucks
+    + Identify the count
