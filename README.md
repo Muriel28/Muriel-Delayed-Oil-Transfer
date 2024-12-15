@@ -25,3 +25,13 @@ Data set provided by the client
     + Determine the number
 2. Number of efficient trucks
     + Identify the count
+  
+---
+\\\
+SQL
+yes no 235
+code net 8765
+yes no 45
+code net YES
+\\\
+
